@@ -3,7 +3,7 @@ In this project, I delved into the intricate relationship between stock prices a
 
 # Approach:
 
-1. Numerical Analysis: We utilized statistical methods to predict stock prices based on historical Sensex data from 2015 to 2024. This analysis includes examining trends, patterns, and statistical correlations to forecast future stock prices.
+1. Numerical Analysis: We utilized statistical methods to predict stock prices based on historical Sensex data from 2010 to 2024. This analysis includes examining trends, patterns, and statistical correlations to forecast future stock prices.
 
 2. Textual Analysis: Sentiment analysis was applied to news headlines data starting from 2001. By evaluating the sentiments expressed in these headlines, we assessed their potential impact on stock prices, providing a qualitative layer to our analysis.
 
