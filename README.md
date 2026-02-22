@@ -16,5 +16,3 @@ From the analysis conducted, it is evident that the RandomForestRegressor is the
 For the numerical analysis component, the Root Mean Squared Error (RMSE) is 0.03, which reflects the high accuracy of our statistical predictions. This low RMSE demonstrates that our numerical analysis effectively forecasts stock prices with minimal error.
 
 Given these results, we can confidently conclude that the hybrid model, combining RandomForestRegressor and sentiment analysis, performs excellently. The successful integration of these methods has led to accurate predictions and a robust model, marking the successful completion of the project.
-
-# Thank You
